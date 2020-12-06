@@ -9,7 +9,7 @@ namespace assignment.Models
     {
 
         public int SId { get; set; }
-        public int SName { get; set; }
+        public string SName { get; set; }
 
         public string SDOB { get; set; }
 
